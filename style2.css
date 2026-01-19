@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(190, 120, 70);
+}
+
+h1{
+    font-size: 50px;
+    letter-spacing: 30px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-weight: 200;
+}
+
+h3{
+    color: aliceblue;
+    text-align: center;
+    background-color: brown;
+
+    /* border: 2px white double; */
+    border-top: 5px rgb(67, 11, 11) double;
+    border-right: 5px rgb(86, 110, 86) inset ;
+    border-bottom: 5px green inset;
+    border-left: 5px blue inset;
+
+    /* padding */
+    padding-top: 50px;
+    padding-right: 40px;
+    padding-bottom: 50px;
+    padding-left: 40px;
+
+    /* margin  */
+    margin-top: 40px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+
+}
+
+a{
+    color: azure;
+    text-decoration: underline;
+    background-color: brown;
+    border-radius: ;
+    padding: 10px;
+}
